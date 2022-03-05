@@ -1,7 +1,6 @@
 # Angular Animated List
 
 * App using services, routing, interpolation, property & event-binding and Formbuilding to add text items to a list.
-* **Note:** to open web links in a new window use: _ctrl+click on link_
 
 
 ##  General info
